@@ -1,0 +1,16 @@
+{
+  "currentUser": {
+    "uid":123,
+    "username": "李博文",
+    "avatar": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi.qqkou.com%2Fi%2F2a4186135793x2702991958b26.jpg&refer=http%3A%2F%2Fi.qqkou.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1659164023&t=d594f41e84b28189b7ba7d9540e56197",
+    "gitRepo": "https://www.github.com/Leon-S-Kennedy"
+  },
+  "articleCount": 123,
+  "typeCount": 12,
+  "article": {
+    "aid": 234,
+    "title": "servlet",
+    "publishedAt": "2022-06-28 00:00:00",
+    "content": "import numpy as np"
+  }
+}
