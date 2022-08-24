@@ -1,0 +1,72 @@
+{
+  "currentUser": {
+    "uid": 1,
+    "username": "libowen",
+    "avatar": "https://tse2-mm.cn.bing.net/th/id/OIP-C.I9fx9m9HRalVdBtBXGrxUQHaGW?pid=ImgDet&rs=1",
+    "gitRepo": "https://gitee.com/peixinchen2"
+  },
+  "articleCount": 23,
+  "typeCount": 3,
+  "articleList": [
+    {
+      "aid": 1,
+      "title": "Hello World1",
+      "publishedAt": "2022-06-25 07:00:00",
+      "summary": "bla bla bla bla ..."
+    },
+    {
+      "aid": 1,
+      "title": "Hello World2",
+      "publishedAt": "2022-06-25 07:00:00",
+      "summary": "bla bla bla bla ..."
+    },
+    {
+      "aid": 1,
+      "title": "Hello World3",
+      "publishedAt": "2022-06-25 07:00:00",
+      "summary": "bla bla bla bla ..."
+    },
+    {
+      "aid": 1,
+      "title": "Hello World4",
+      "publishedAt": "2022-06-25 07:00:00",
+      "summary": "bla bla bla bla ..."
+    },
+    {
+      "aid": 1,
+      "title": "Hello World5",
+      "publishedAt": "2022-06-25 07:00:00",
+      "summary": "bla bla bla bla ..."
+    },
+    {
+      "aid": 1,
+      "title": "Hello World6",
+      "publishedAt": "2022-06-25 07:00:00",
+      "summary": "bla bla bla bla ..."
+    },
+    {
+      "aid": 1,
+      "title": "Hello World7",
+      "publishedAt": "2022-06-25 07:00:00",
+      "summary": "bla bla bla bla ..."
+    },
+    {
+      "aid": 1,
+      "title": "Hello World8",
+      "publishedAt": "2022-06-25 07:00:00",
+      "summary": "bla bla bla bla ..."
+    },
+    {
+      "aid": 1,
+      "title": "Hello World9",
+      "publishedAt": "2022-06-25 07:00:00",
+      "summary": "bla bla bla bla ..."
+    },
+    {
+      "aid": 1,
+      "title": "Hello World10",
+      "publishedAt": "2022-06-25 07:00:00",
+      "summary": "bla bla bla bla ..."
+    }
+  ]
+}
